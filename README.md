@@ -29,3 +29,10 @@ booktitle = {Proceedings of the 2019 World Wide Web Conference on World Wide Web
 year={2019},
 organization={International World Wide Web Conferences Steering Committee}
 ```
+
+## Contributors
+* [Shanu Kumar][1] (sshanukr@gmail.com)
+
+
+
+[1]: https://github.com/Sshanu
