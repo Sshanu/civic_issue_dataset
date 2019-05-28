@@ -1,6 +1,6 @@
 # Adversarial Adaptation of Scene Graph Models for Understanding Civic Issues
 
-Accepted at [[WWW 2019 Short](https://www2019.thewebconf.org)]
+Accepted at [[WWW 2019](https://www2019.thewebconf.org)]
 
 #####  [[Project  Page Link ]](https://sshanu.github.io/civic_issue_dataset/)     [[Paper Link ]](https://homes.cs.washington.edu/~mohitj/pdfs/c26-www-2019.pdf)
 
